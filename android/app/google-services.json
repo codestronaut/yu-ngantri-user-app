@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "943410075763",
+    "firebase_url": "https://yukngantri-e52c5.firebaseio.com",
+    "project_id": "yukngantri-e52c5",
+    "storage_bucket": "yukngantri-e52c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943410075763:android:b78bfbae5f4552b5f8b206",
+        "android_client_info": {
+          "package_name": "com.codecafeid.yuk_ngantri_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943410075763-ttjuj43pulrthesesbslh13f5ca4effh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA84DkSPX0oDZtzRMe_MMkN6x_GV-5_TZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943410075763-ttjuj43pulrthesesbslh13f5ca4effh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
